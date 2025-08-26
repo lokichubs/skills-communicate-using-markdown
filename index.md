@@ -12,3 +12,9 @@ Yaktocat wanted me to put the code below for more sauuuce
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Yaktocat now has a list of things to do
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
